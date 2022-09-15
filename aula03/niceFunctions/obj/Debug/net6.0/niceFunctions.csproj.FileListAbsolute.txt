@@ -1,0 +1,15 @@
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\bin\Debug\net6.0\niceFunctions.exe
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\bin\Debug\net6.0\niceFunctions.deps.json
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\bin\Debug\net6.0\niceFunctions.runtimeconfig.json
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\bin\Debug\net6.0\niceFunctions.dll
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\bin\Debug\net6.0\niceFunctions.pdb
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\niceFunctions.csproj.AssemblyReference.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\niceFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\niceFunctions.AssemblyInfoInputs.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\niceFunctions.AssemblyInfo.cs
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\niceFunctions.csproj.CoreCompileInputs.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\niceFunctions.dll
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\refint\niceFunctions.dll
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\niceFunctions.pdb
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\niceFunctions.genruntimeconfig.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula03\niceFunctions\obj\Debug\net6.0\ref\niceFunctions.dll

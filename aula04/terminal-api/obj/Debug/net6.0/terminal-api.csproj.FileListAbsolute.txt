@@ -1,0 +1,15 @@
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\terminal-api.csproj.AssemblyReference.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\terminal-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\terminal-api.AssemblyInfoInputs.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\terminal-api.AssemblyInfo.cs
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\terminal-api.csproj.CoreCompileInputs.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\bin\Debug\net6.0\terminal-api.exe
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\bin\Debug\net6.0\terminal-api.deps.json
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\bin\Debug\net6.0\terminal-api.runtimeconfig.json
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\bin\Debug\net6.0\terminal-api.dll
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\bin\Debug\net6.0\terminal-api.pdb
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\terminal-api.dll
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\refint\terminal-api.dll
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\terminal-api.pdb
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\terminal-api.genruntimeconfig.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\aula04\terminal-api\obj\Debug\net6.0\ref\terminal-api.dll

@@ -1,0 +1,6 @@
+test = teste
+user = fjkajfa
+password = fjkajfa
+host = localhost
+port = 5432
+dbname = teste
