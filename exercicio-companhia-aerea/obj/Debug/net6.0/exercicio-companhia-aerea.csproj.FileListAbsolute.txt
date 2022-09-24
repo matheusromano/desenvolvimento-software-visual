@@ -1,0 +1,15 @@
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\exercicio-companhia-aerea.csproj.AssemblyReference.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\exercicio-companhia-aerea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\exercicio-companhia-aerea.AssemblyInfoInputs.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\exercicio-companhia-aerea.AssemblyInfo.cs
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\exercicio-companhia-aerea.csproj.CoreCompileInputs.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\bin\Debug\net6.0\exercicio-companhia-aerea.exe
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\bin\Debug\net6.0\exercicio-companhia-aerea.deps.json
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\bin\Debug\net6.0\exercicio-companhia-aerea.runtimeconfig.json
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\bin\Debug\net6.0\exercicio-companhia-aerea.dll
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\bin\Debug\net6.0\exercicio-companhia-aerea.pdb
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\exercicio-companhia-aerea.dll
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\refint\exercicio-companhia-aerea.dll
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\exercicio-companhia-aerea.pdb
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\exercicio-companhia-aerea.genruntimeconfig.cache
+C:\Users\mbraga\projetos\desenvolvimento-software-visual\exercicio-companhia-aerea\obj\Debug\net6.0\ref\exercicio-companhia-aerea.dll

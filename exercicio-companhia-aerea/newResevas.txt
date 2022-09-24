@@ -1,0 +1,22 @@
+Parreira, 9/26/2022 3:00:00 PM, Porto Alegre, 3/8
+Gilmar, 9/26/2022 3:00:00 PM, Porto Alegre, 3/8
+Marcio, 9/26/2022 4:00:00 PM, Fortaleza, 5/8
+Paulo, 9/26/2022 4:00:00 PM, Fortaleza, 5/8
+Ricardo, 9/27/2022 9:00:00 AM, Sao Paulo, 8/8
+Romario, 9/26/2022 4:00:00 PM, Fortaleza, 5/8
+Taffarel, 9/26/2022 4:00:00 PM, Fortaleza, 5/8
+Zagallo, 9/26/2022 3:00:00 PM, Porto Alegre, 3/8
+Zetti, 9/26/2022 4:00:00 PM, Fortaleza, 5/8
+Dunga, 9/27/2022 11:00:00 AM, Rio de Janeiro, 7/8
+Jorginho, 9/27/2022 11:00:00 AM, Rio de Janeiro, 7/8
+Junior, 9/27/2022 11:00:00 AM, Rio de Janeiro, 7/8
+Leonardo, 9/27/2022 11:00:00 AM, Rio de Janeiro, 7/8
+Ronaldao, 9/27/2022 11:00:00 AM, Rio de Janeiro, 7/8
+Bebeto, 9/27/2022 9:00:00 AM, Sao Paulo, 8/8
+Branco, 9/27/2022 9:00:00 AM, Sao Paulo, 8/8
+Mauro, 9/27/2022 9:00:00 AM, Sao Paulo, 8/8
+Mazinho, 9/27/2022 9:00:00 AM, Sao Paulo, 8/8
+Muller, 9/27/2022 9:00:00 AM, Sao Paulo, 8/8
+Rai, 9/27/2022 9:00:00 AM, Sao Paulo, 8/8
+Ronaldo, 9/27/2022 10:00:00 AM, Sao Paulo, 2/8
+Viola, 9/27/2022 10:00:00 AM, Sao Paulo, 2/8
